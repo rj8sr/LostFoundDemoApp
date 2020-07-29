@@ -8,5 +8,5 @@ target 'DemoProject' do
   # Pods for DemoProject
  pod 'GoogleSignIn'
  pod 'SDWebImage'
- pod 'SideMenu'
+ #pod 'SideMenu'
 end
